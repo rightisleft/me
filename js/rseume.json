@@ -1,0 +1,82 @@
+{
+	jobs: [
+		{
+			company: "UBQ Labs",
+			title: "VP of Product",
+			time: "Current"
+			description: "Designing Human-In-The-Loop solutions for Machine Learning & AI"			
+		},
+		{
+			company: "Union Station",
+			title: "Interum CTO",
+			time: "Summer 2016"
+			description: "Installed an Engineering & Product strategy to help increase conversion rates, and secure funding."			
+		},
+		{
+			company: "Augmate",
+			title: "VP of Engineering",
+			time: "2015 - 2016"
+			description: "Built the (WE) Manage platform to facilitate the adoption of wearable technology in enterprise. Installed and lead the development, hiring, and partnership strategis."			
+		},
+		{
+			company: "Peachpit Press",
+			title: "Author",
+			time: "2015"
+			description: "Authored a book on the Dart programming language titled 'Write Web Apps with Dart: Develop and Design 1st Edition'. Printed & Published by PeachPit Press Fall 2015."
+		},
+		{
+			company: "Imprint",
+			title: "Lead Engineer",
+			time: "2014 - 2015",
+			description: "Worked with non-technical founder to build an iterative product roadmap and delivery schedule. Transitioned company to Kanban, and implemented data driven decision making worflow."			
+		},
+		{
+			company: "Proquest",
+			title: "Product Consultant",
+			time: "2013 - 2014",
+			description: "Modernized design & front end development processes for internal CMS systems."			
+		},
+		{
+			company: "Kixeye",
+			title: "Software Consultant",
+			time: "2012 - 2013",
+			description: ""			
+		},
+		{
+			company: "Idle Games",
+			title: "Software Engineer",
+			time: "2010 - 2012",
+			description: "Early contributor on the award winning game 'Idle Worship' implementing highly performant pattern based flash client game components in ActionScript 3 and JavaScript."			
+		},
+		{
+			company: "PlayFirst",
+			title: "Software Engineer",
+			time: "2009 - 2010",
+			description: "Development of scalable Flash game clients supporting up to 2.6 million Monthly Active Users."			
+		},
+		{
+			company: "Gazillion",
+			title: "Interaction Designer",
+			time: "2008 - 2009",			
+			description: "Platform design and brand development of SmartyCard.com children's educational gaming site: pre-launch, launch, and post-launch."			
+		},
+		{
+			company: "SFGov.org",
+			title: "New Media Consultant",
+			time: "2008",
+			description: "Designed and developer a Multimedia Portal for the Gavin Newsom of the Mayors Office and Board of Supervisor."			
+		},
+		{
+			company: "The Paragon Concept",
+			title: "Owner",
+			time: "2002 - 2007",
+			description: "Owned and operated a small multimedia production company specializing in Graphic Design, Web Development, Unix / Linux System Administration, and Web Hosting."			
+		},
+		{
+			company: "Innovative Science",
+			title: "Developer",
+			time: "2001 - 2006",
+			description: "Researched, recommended, and implemented new web technologies. Delivered various Flash XML and deployed E-commerce solutions, and MySQL database driven sites."			
+		}
+	]
+}
