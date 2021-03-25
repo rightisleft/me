@@ -12,8 +12,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 3,
       "label": "Delta",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -21,8 +19,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 4,
       "label": "Echo",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -30,8 +26,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 5,
       "label": "Foxtrot",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -39,8 +33,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 6,
       "label": "Golf",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -48,8 +40,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 7,
       "label": "Hotel",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -57,8 +47,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 0,
       "label": "Alpha",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -66,8 +54,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 1,
       "label": "Beta",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -75,8 +61,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 2,
       "label": "Charley",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },	
     {
@@ -84,8 +68,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 8,
       "label": "India",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -93,8 +75,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 9,
       "label": "Juliet",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -102,8 +82,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 10,
       "label": "Kilo",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -111,8 +89,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 11,
       "label": "Lima",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -120,8 +96,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 12,
       "label": "Mike",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -129,8 +103,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 13,
       "label": "November",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     },
     {
@@ -138,8 +110,6 @@
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 14,
       "label": "Oscar",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
       "lensId": 170
     }
   ],
