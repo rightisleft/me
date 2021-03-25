@@ -8,24 +8,6 @@
   "uid": "851f585f-f5d6-41fa-904a-0b74b9221fff",
   "modifiers": [
     {
-      "id": 1532,
-      "createdAt": "2021-03-25T14:33:03.088Z",
-      "topicId": 3,
-      "label": "Delta",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
-      "lensId": 170
-    },
-    {
-      "id": 1533,
-      "createdAt": "2021-03-25T14:33:03.088Z",
-      "topicId": 4,
-      "label": null,
-      "labelChangedOnStage": null,
-      "labelSource": 0,
-      "lensId": 170
-    },
-    {
       "id": 1529,
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 0,
@@ -51,7 +33,25 @@
       "labelChangedOnStage": null,
       "labelSource": 0,
       "lensId": 170
-    },	
+    },
+    {
+      "id": 1532,
+      "createdAt": "2021-03-25T14:33:03.088Z",
+      "topicId": 3,
+      "label": "Delta",
+      "labelChangedOnStage": null,
+      "labelSource": 0,
+      "lensId": 170
+    },
+    {
+      "id": 1533,
+      "createdAt": "2021-03-25T14:33:03.088Z",
+      "topicId": 4,
+      "label": null,
+      "labelChangedOnStage": null,
+      "labelSource": 0,
+      "lensId": 170
+    },
     {
       "id": 1534,
       "createdAt": "2021-03-25T14:33:03.088Z",
@@ -71,19 +71,19 @@
       "lensId": 170
     },
     {
-      "id": 1537,
-      "createdAt": "2021-03-25T14:33:03.088Z",
-      "topicId": 8,
-      "label": "Hotel",
-      "labelChangedOnStage": null,
-      "labelSource": 0,
-      "lensId": 170
-    },	
-    {
       "id": 1536,
       "createdAt": "2021-03-25T14:33:03.088Z",
       "topicId": 7,
       "label": "Golf",
+      "labelChangedOnStage": null,
+      "labelSource": 0,
+      "lensId": 170
+    },
+    {
+      "id": 1537,
+      "createdAt": "2021-03-25T14:33:03.088Z",
+      "topicId": 8,
+      "label": "Hotel",
       "labelChangedOnStage": null,
       "labelSource": 0,
       "lensId": 170
