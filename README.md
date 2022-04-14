@@ -1,4 +1,5 @@
-# me
+# Jack Murphy
 
-sudo /usr/local/bin/certbot-auto --nginx
+This is the web CV for [www.rightisleft.com](https://www.rightisleft.com) 
+
 
