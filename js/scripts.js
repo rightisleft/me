@@ -304,6 +304,9 @@ $(document).ready(function() {
 
   var target = CLASSA;
 
+  // The resume section is currently commented out in index.html
+  if (!document.querySelector(CLASSA) || !document.querySelector(CLASSB)) return;
+
   jobs.forEach(function(job, index) {
     var myContent = document.querySelector('#resumeBoxTemplate').content;
     myContent.querySelector('h3').textContent = job.company;
