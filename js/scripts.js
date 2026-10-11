@@ -194,25 +194,22 @@ $(function() {
   });
 
   /*===============================================
-    Google Maps
+    Map (Leaflet + OpenStreetMap)
   ===============================================*/
   var markerIcon = "images/marker.png";
   // Map Initial Location
   var initLatitude = 45.52345; // <- Latitude here
   var initLongitude = -122.67621; // <- Longitude here
   
-  var map = new GMaps({
-    el: '#map-canvas',
-    lat: initLatitude,
-    lng: initLongitude,
-    zoom: 10,
-    scrollwheel: false
-  });
-  map.addMarker({
-    lat : initLatitude,
-    lng : initLongitude,
-    icon: markerIcon
-  });
+  var map = L.map('map-canvas', { scrollWheelZoom: false })
+    .setView([initLatitude, initLongitude], 10);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+  L.marker([initLatitude, initLongitude], {
+    icon: L.icon({ iconUrl: markerIcon, iconSize: [50, 50], iconAnchor: [25, 50] })
+  }).addTo(map);
   /*===============================================
     end Google Maps
   ===============================================*/
